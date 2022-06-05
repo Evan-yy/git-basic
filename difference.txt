@@ -1,0 +1,4 @@
+git add是把需要提交的文件添加到stage中
+git commit是把stage中的所有内容提交到当前分支(本地版本库中）
+git push是将本地的版本库推送到远程服务器
+顺序应该是先add -> commit ->push
